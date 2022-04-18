@@ -26,7 +26,7 @@
 - 研究用ドキュメントの作成と共有
 - 更新作業
   - Unity2021.3.xの最新版
-- [手順メモ](https://docs.google.com/document/d/1tTdcbj_lzgi1qZUuM1xQXRZ-VNU90eJbh-EF021Xai0/)
+  - [手順メモ](https://docs.google.com/document/d/1tTdcbj_lzgi1qZUuM1xQXRZ-VNU90eJbh-EF021Xai0/)
 - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
 - [海賊すごろく]()
 - テーマ例紹介
