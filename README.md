@@ -20,16 +20,24 @@
 - [命名規則](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 
 
+
 ## 1回目
 - ガイダンス
-  - [就活にあたって再確認](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
-- 研究用ドキュメントの作成と共有
-- 更新作業
-  - Unity2021.3.xの最新版
-  - [手順メモ](https://docs.google.com/document/d/1tTdcbj_lzgi1qZUuM1xQXRZ-VNU90eJbh-EF021Xai0/)
+  - [シラバス](https://docs.google.com/spreadsheets/d/1Hes2lmBKlzbyL4_6ZCDzQsSHO0vgp_WX/)
 - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
-- [海賊すごろく]()
-- テーマ例紹介
-  - 
+- 研究用ドキュメントの作成と共有
+  - 以下から使いやすそうなブログサービスを選んで、アカウントを作成
+    - [Qiita](https://qiita.com/)
+    - [はてなブログ](https://hatenablog.com/)
+    - [note](https://note.com)
+    - [Zenn](https://zenn.dev/)
+    - [Notion](https://www.notion.so/)
+    - [WiX](https://ja.wix.com/)
+  - テーマを考える
+    - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
+  - 考えたテーマを表題にしたブログ記事を作成して限定公開する。確認できるURLを [こちら](https://docs.google.com/forms/d/e/1FAIpQLScjHG18gaNFBzUHrMieD4EK5OfJHY7JE-VocWz-saxyAuuZyQ/viewform?usp=sf_link) から送信
+- Unity2021.3.xの最新版をインストール
+  - WebGLのみ有効にして、あとは全てチェックを外す
+
 
 
