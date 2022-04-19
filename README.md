@@ -38,6 +38,8 @@
 - ガイダンス
   - [シラバス](https://docs.google.com/spreadsheets/d/1Hes2lmBKlzbyL4_6ZCDzQsSHO0vgp_WX/)
 - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
+  - [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
+  - [最初の設計方針](https://docs.google.com/document/d/1Ot_jadhsFOjefdIhCJYXgoVQkaul-6bOnTWJ0JsWOxo/)
 - 研究用ドキュメントの作成と共有
   - 以下から使いやすそうなブログサービスを選んで、アカウントを作成
     - [Qiita](https://qiita.com/)
