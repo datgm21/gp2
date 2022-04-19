@@ -51,8 +51,12 @@
   - テーマを考える
     - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
   - 考えたテーマを表題にしたブログ記事を作成して限定公開する。確認できるURLを [こちら](https://docs.google.com/forms/d/e/1FAIpQLScjHG18gaNFBzUHrMieD4EK5OfJHY7JE-VocWz-saxyAuuZyQ/viewform?usp=sf_link) から送信
-- Unity2021.3.xの最新版をインストール
-  - WebGLのみ有効にして、あとは全てチェックを外す
-
-
-
+- Unityのインストール
+  - 2021.3.xの最新版
+    - WebGLのみ有効にして、あとは全てチェックを外す
+  - 2019.4.22f1
+    - https://docs.cluster.mu/creatorkit/installation/install-unity/
+      - Android Build Support
+      - iOS Build Support
+      - Mac Build Support(Mono)
+  - 2019.4.11f1の削除
