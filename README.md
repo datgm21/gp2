@@ -59,4 +59,3 @@
       - Android Build Support
       - iOS Build Support
       - Mac Build Support(Mono)
-  - 2019.4.11f1の削除
