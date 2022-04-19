@@ -19,6 +19,13 @@
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 - [命名規則](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 
+### シェーダー関連
+- [Unity Learning Material. パーティクル](https://learning.unity3d.jp/tag/particle/)
+- [Unity Learning Material. シェーダー](https://learning.unity3d.jp/tag/shader/)
+- [Unity Learning Material. VFX Graph](https://learning.unity3d.jp/tag/vfx-graph/)
+- [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
+- [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
+
 
 
 ## 1回目
