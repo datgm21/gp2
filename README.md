@@ -31,8 +31,12 @@
 ### 予定
 - 習作プロジェクト紹介
 - 共同開発練習
-  - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
-  - ブランチ操作、コンフリクト対応の練習
+  - 1年生の時のやり方の復習
+    - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
+    - [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
+  - マージによる開発
+    - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
+    - ブランチ操作、コンフリクト対応の練習
 - 研究テーマの検討						
 
 
