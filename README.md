@@ -26,15 +26,23 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 2回目(4/27)
+
+### 予定
+- 習作プロジェクト紹介
+- 共同開発練習
+  - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
+  - ブランチ操作、コンフリクト対応の練習
+- 研究テーマの検討						
 
 
-## 1回目
+## 1回目(4/20)
 ### 話題
 - [ClusterGAMEJAM 2022 in SPRING 部門賞受賞ワールド一覧](https://note.com/cluster_official/n/nfe3ad961263b)
 - [Unity1週間ゲームジャム](https://unityroom.com/unity1weeks) 次回は5/2～5/8
   - 卒業制作や研究テーマの試作で参加する
 
-### 予定
+### 内容
 - ガイダンス
   - [シラバス](https://docs.google.com/spreadsheets/d/1Hes2lmBKlzbyL4_6ZCDzQsSHO0vgp_WX/)
 - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
