@@ -43,7 +43,7 @@
     - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
     - ブランチ操作、コンフリクト対応の練習
 - 研究テーマの検討						
-
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSez2qy7CH6hRwDInk3qD_dfjoBB2Up8Q9uCMZS1feIVv5r8iQ/viewform?usp=sf_link)へURLを報告
 
 ## 1回目(4/20)
 ### 話題
