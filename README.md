@@ -29,7 +29,6 @@
 ## 2回目(4/27)
 
 ### 予定
-- 習作プロジェクト紹介
 - 共同開発練習
   - 1年生の時のやり方の復習
     - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
