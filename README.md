@@ -42,7 +42,7 @@
 - GitHub練習 前回の復習
   - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)
 - コンフリクト対応の練習
-- 状態遷移の設計
+- [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
 - 研究テーマの検討と決定
   - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSez2qy7CH6hRwDInk3qD_dfjoBB2Up8Q9uCMZS1feIVv5r8iQ/viewform?usp=sf_link)へURLを報告
   - [Photon. Fusion](https://www.photonengine.com/ja-JP/Fusion)
