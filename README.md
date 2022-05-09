@@ -32,16 +32,32 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 2回目(4/27)
+## 3回目(5/11)
+
+### 話題
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+  - [ぺんそろ]()
 
 ### 予定
+- GitHub練習 前回の復習
+  - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)
+- コンフリクト対応の練習
+- 状態遷移の設計
+- 研究テーマの検討と決定
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSez2qy7CH6hRwDInk3qD_dfjoBB2Up8Q9uCMZS1feIVv5r8iQ/viewform?usp=sf_link)へURLを報告
+  - [Photon. Fusion](https://www.photonengine.com/ja-JP/Fusion)
+- 来週から進捗報告
+
+## 2回目(4/27)
+
+### 内容
 - 共同開発練習
   - 1年生の時のやり方の復習
     - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
     - [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
   - マージによる開発
     - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
-    - ブランチ操作、コンフリクト対応の練習
+    - ブランチ操作
 - 研究テーマの検討						
   - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSez2qy7CH6hRwDInk3qD_dfjoBB2Up8Q9uCMZS1feIVv5r8iQ/viewform?usp=sf_link)へURLを報告
   - [Photon. Fusion](https://www.photonengine.com/ja-JP/Fusion)
