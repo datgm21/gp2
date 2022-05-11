@@ -1,7 +1,7 @@
 # ゲームプログラミング２年生
 
 - [シラバス](https://docs.google.com/spreadsheets/d/1Hes2lmBKlzbyL4_6ZCDzQsSHO0vgp_WX/)
-- [質問]()
+- [質問](https://meet.google.com/bwb-njcm-udh)
 - [Slack](https://datgm21.slack.com/)
 - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
 - [日程](https://github.com/datgm22/design/blob/main/wed.md)
