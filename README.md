@@ -36,7 +36,7 @@
 
 ### 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
-  - [ぺんそろ]()
+  - [ぺんそろ](https://unityroom.com/games/yksr)
 
 ### 予定
 - GitHub練習 前回の復習
