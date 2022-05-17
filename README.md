@@ -32,17 +32,23 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 4回目(5/18)
+
+### 予定 オブジェクト指向 機能とインターフェイス						
+- [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
+- 研究テーマ進捗報告と作業
+
+
 ## 3回目(5/11)
 
 ### 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
-  - [ぺんそろ](https://unityroom.com/games/yksr)
+  - [ぺんそろ](https://unityroom.com/games/pensr)
 
-### 予定
+### 内容
 - GitHub練習 前回の復習
   - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)
 - コンフリクト対応の練習
-- [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
 - 研究テーマの検討と決定
   - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSez2qy7CH6hRwDInk3qD_dfjoBB2Up8Q9uCMZS1feIVv5r8iQ/viewform?usp=sf_link)へURLを報告
   - [Photon. Fusion](https://www.photonengine.com/ja-JP/Fusion)
