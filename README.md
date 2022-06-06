@@ -32,9 +32,21 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 6回目(6/8)
+
+### 予定
+- オブジェクト指向 機能とインターフェース
+- [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
+  - 振り返りと続き
+  - インターフェースの作成
+- SOLID原則(1) S, O, L
+  - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
+- 研究テーマ進捗報告と作業
+
+
 ## 5回目(6/1)
 
-### 予定 オブジェクト指向 機能とインターフェース						
+### オブジェクト指向 機能とインターフェース						
 - 参考 [ゲームドライブ就活チャンネル. ゲームのローディング画面って何してるの？...](https://youtu.be/DxjQBgCnkTk)
 - [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
   - 振り返りと続き
