@@ -34,6 +34,9 @@
 
 ## 6回目(6/8)
 
+### 話題
+- [ゲームクリエイターアカデミア. 本当につくりたいゲームコンセプト講座 6/20(月)19時から](https://twitter.com/GC_koushien/status/1534097833120366593)
+
 ### 予定
 - オブジェクト指向 機能とインターフェース
 - [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
