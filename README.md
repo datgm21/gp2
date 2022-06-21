@@ -32,12 +32,23 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 8回目(6/22)
+
+### 内容
+- ジェネリックとシングルトンの振り返り
+- [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
+  - インターフェースを呼び出して、シーンを切り替えの順次処理を先行開発
+  - 仮シーンを作成して切り替えを実装
+  - テストを通す
+- 研究テーマ進捗報告と作業
+
+
 ## 7回目(6/15)
 
 ### 話題
 - [ゲームクリエイターアカデミア. 本当につくりたいゲームコンセプト講座 6/20(月)19時から](https://twitter.com/GC_koushien/status/1534097833120366593)
 
-### 予定
+### 内容
 - オブジェクト指向 機能とインターフェース
 - [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
   - 状態の切り替えを振り返り
