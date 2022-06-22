@@ -35,7 +35,7 @@
 ## 8回目(6/22)
 
 ### 内容
-- ジェネリックとシングルトンの振り返り
+- [ジェネリックとシングルトンの振り返り](https://docs.google.com/document/d/19Y3buM2aVUPRHr4ZqUgDHH5BirPLCAelYimm4oxxKno/)
 - [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
   - インターフェースを呼び出して、シーンを切り替えの順次処理を先行開発
   - 仮シーンを作成して切り替えを実装
@@ -52,7 +52,7 @@
 - オブジェクト指向 機能とインターフェース
 - [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
   - 状態の切り替えを振り返り
-  - 仮シーンを作成して、シーンを切り替える
+  - [ジェネリックとシングルトンの振り返り](https://docs.google.com/document/d/19Y3buM2aVUPRHr4ZqUgDHH5BirPLCAelYimm4oxxKno/)
 - SOLID原則(2) I, D
   - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
 - 研究テーマ進捗報告と作業
