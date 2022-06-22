@@ -32,6 +32,16 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 9回目(6/29)
+
+### 予定
+- 抽選のシステムを作る
+  - TestRunnerを使いたいのでUnityでPure C#のクラスを作る
+- [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
+  - 画面を隠す処理の呼び出し周りの復習
+  - シーンの読み込み、解放、終了待ちのインターフェースを検討、実装
+- 研究テーマ進捗報告と作業
+
 ## 8回目(6/22)
 
 ### 内容
