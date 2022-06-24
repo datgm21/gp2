@@ -34,6 +34,10 @@
 
 ## 9回目(6/29)
 
+### 参考
+- [@harumak_11. Unity Screen Navigator](https://github.com/Haruma-K/UnityScreenNavigator)
+  - [@harumak_11. 「Unity Screen Navigator」リリースに寄せて - OSSにした理由や設計意図](https://light11.hatenadiary.com/entry/2021/10/27/221801)
+
 ### 予定
 - 抽選のシステムを作る
   - TestRunnerを使いたいのでUnityでPure C#のクラスを作る
