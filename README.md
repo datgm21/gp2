@@ -34,6 +34,10 @@
 
 ## 9回目(6/29)
 
+### 話題
+- [「講談社ゲームクリエイターズラボ」が2022年7月1日(金)から超リニューアルします！](https://creatorslab.kodansha.co.jp/gcl/gcla/)
+- [Levtech Co., Ltd. 「ほぼ実世界。リアルすぎるバーチャル空間を構築」多視点の写真から精密な3Dシーンを作成](https://levtech.jp/media/article/column/detail_99/)
+
 ### 参考
 - [@harumak_11. Unity Screen Navigator](https://github.com/Haruma-K/UnityScreenNavigator)
   - [@harumak_11. 「Unity Screen Navigator」リリースに寄せて - OSSにした理由や設計意図](https://light11.hatenadiary.com/entry/2021/10/27/221801)
