@@ -43,7 +43,7 @@
   - [@harumak_11. 「Unity Screen Navigator」リリースに寄せて - OSSにした理由や設計意図](https://light11.hatenadiary.com/entry/2021/10/27/221801)
 
 ### 予定
-- 抽選のシステムを作る
+- [抽選のシステムを作る]https://docs.google.com/document/d/1khOqgCE00825yK93j8VagLoOH5jbdYM8anZoH5gK9t0/)
   - TestRunnerを使いたいのでUnityでPure C#のクラスを作る
 - [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
   - 画面を隠す処理の呼び出し周りの復習
