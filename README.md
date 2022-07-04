@@ -35,7 +35,7 @@
 ## 10回目(7/6)
 
 ### 予定
-- Unity2021.3.4f1のインストール。コンポーネントは以下の4つを選択
+- Unity2021.3.4f1のインストール。コンポーネントは以下を選択。その他は不要
   - Android Build Support
     - Android SDK  NDK Tools
     - Open JDK
