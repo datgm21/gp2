@@ -37,8 +37,10 @@
 ### 予定
 - Unity2021.3.4f1のインストール。コンポーネントは以下の4つを選択
   - Android Build Support
+    - Android SDK  NDK Tools
+    - Open JDK
   - iOS Build Support
-  - Mac Build Support
+  - Mac Build Support(Mono)
   - WebGL Build Support
   - 参考： https://note.com/cluster_official/n/n68d7995bf93f
 - [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
