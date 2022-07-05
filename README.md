@@ -33,6 +33,9 @@
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
 ## 10回目(7/6)
+### 話題
+- [三宅陽一郎. スマートシティ=メタバースの設計と構築](https://speakerdeck.com/miyayou/sumatositei-metabasufalseshe-ji-togou-zhu)
+- [Koji Kita. 今年もミクシィの22新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)
 
 ### 予定
 - Unity2021.3.4f1のインストール。コンポーネントは以下を選択。その他は不要
