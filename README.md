@@ -32,12 +32,25 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 11回目(7/13)
+
+### 予定
+- [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
+  - 画面を隠す処理の呼び出し周りの復習
+  - シーンの読み込み、解放、終了待ちのインターフェースを検討、実装
+- Photon Chat
+- 研究テーマの確認
+  - 9/7までに記事を1本完成させて公開する
+  - ブログや動画の手順を書き写すだけではなく、調べたことを元にオリジナルの内容を追加すること
+  - 卒業制作で担当している部分の解説
+  - 興味ある分野の調査と応用  
+
 ## 10回目(7/6)
 ### 話題
 - [三宅陽一郎. スマートシティ=メタバースの設計と構築](https://speakerdeck.com/miyayou/sumatositei-metabasufalseshe-ji-togou-zhu)
 - [Koji Kita. 今年もミクシィの22新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)
 
-### 予定
+### 内容
 - Unity2021.3.4f1のインストール。コンポーネントは以下を選択。その他は不要
   - Android Build Support
     - Android SDK  NDK Tools
