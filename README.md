@@ -34,6 +34,9 @@
 
 ## 11回目(7/13)
 
+### 話題
+- [miku. プロシージャル界隈で話題のMarkovJuniorについての解説](https://zenn.dev/baroqueengine/articles/29c21d1da24ebb)
+
 ### 予定
 - [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
   - 画面を隠す処理の呼び出し周りの復習
