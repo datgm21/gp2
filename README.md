@@ -38,7 +38,7 @@
 - [miku. プロシージャル界隈で話題のMarkovJuniorについての解説](https://zenn.dev/baroqueengine/articles/29c21d1da24ebb)
 - [日本ゲーム大賞2022 U18部門予選プレゼン大会](https://youtu.be/thBYaMnMhmA)
   - [予選作品一覧](https://u18.awards.cesa.or.jp/qualifying2022/)
-  - [決勝進出作品プレゼン](./jga2022u18.md)
+  - [決勝進出作品プレゼン](https://github.com/datgm22/design/blob/main/jga2022u18.md)
 - [池袋Unityもくもく会 ＃７ 7/23(土)](https://weekend-unity.connpass.com/event/254089/?utm_campaign=event_participate_to_follower)
 
 ### 予定
