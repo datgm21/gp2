@@ -36,6 +36,9 @@
 
 ### 話題
 - [miku. プロシージャル界隈で話題のMarkovJuniorについての解説](https://zenn.dev/baroqueengine/articles/29c21d1da24ebb)
+- [日本ゲーム大賞2022 U18部門予選プレゼン大会](https://youtu.be/thBYaMnMhmA)
+  - [予選作品一覧](https://u18.awards.cesa.or.jp/qualifying2022/)
+  - [決勝進出作品プレゼン](./jga2022u18.md)
 
 ### 予定
 - [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
