@@ -32,6 +32,22 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+
+## 12回目(7/20)
+
+### 話題
+- [Cluster Workshop 7/22 21:00-](https://cluster.mu/e/c456ba81-8a5a-4b1c-9f8c-d053e754b56b)
+
+### 予定
+- [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
+  - 画面切り替え、シーンの読み込み、解放、終了待ちなどの実装
+- 研究テーマの確認
+  - 9/7までに記事を1本完成させて公開する
+  - ブログや動画の手順を書き写すだけではなく、調べたことを元にオリジナルの内容を追加すること
+  - 卒業制作で担当している部分の解説
+  - 興味ある分野の調査と応用  
+
+
 ## 11回目(7/13)
 
 ### 話題
@@ -41,16 +57,11 @@
   - [決勝進出作品プレゼン](https://github.com/datgm22/design/blob/main/jga2022u18.md)
 - [池袋Unityもくもく会 ＃７ 7/23(土)](https://weekend-unity.connpass.com/event/254089/?utm_campaign=event_participate_to_follower)
 
-### 予定
+### 内容
 - [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
   - 画面を隠す処理の呼び出し周りの復習
   - シーンの読み込み、解放、終了待ちのインターフェースを検討、実装
-- Photon Chat
-- 研究テーマの確認
-  - 9/7までに記事を1本完成させて公開する
-  - ブログや動画の手順を書き写すだけではなく、調べたことを元にオリジナルの内容を追加すること
-  - 卒業制作で担当している部分の解説
-  - 興味ある分野の調査と応用  
+
 
 ## 10回目(7/6)
 ### 話題
