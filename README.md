@@ -38,6 +38,7 @@
 ### 話題
 - [Slackの保存期間が9/1から90日間に変更](https://slack.com/intl/ja-jp/blog/news/pricing-and-plan-updates)
 - [Cluster Workshop 7/22 21:00-](https://cluster.mu/e/c456ba81-8a5a-4b1c-9f8c-d053e754b56b)
+- [銀座Unityもくもく会 ＃１５ 7/30](https://weekend-unity.connpass.com/event/254552/)
 
 ### 予定
 - [移動床サンプル](https://github.com/am1tanaka/TaikenMoveFloor)
