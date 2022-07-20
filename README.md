@@ -40,6 +40,7 @@
 - [Cluster Workshop 7/22 21:00-](https://cluster.mu/e/c456ba81-8a5a-4b1c-9f8c-d053e754b56b)
 
 ### 予定
+- [移動床サンプル](https://github.com/am1tanaka/TaikenMoveFloor)
 - [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
   - 画面切り替え、シーンの読み込み、解放、終了待ちなどの実装
 - 研究テーマの確認
