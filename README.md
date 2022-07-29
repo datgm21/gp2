@@ -24,6 +24,14 @@
 - [Unityで使用する画像ファイル](https://docs.google.com/document/d/1KxhV1sL614Ui90LyaXOegaEkIFTg6c6eTam_ntYZl34/)
 - [グラフィックデータのまとめ方](https://docs.google.com/document/d/1I30TPQtOu5n3PwTNdGhL-SZ-ddVt98Ifira_Wp5n06U/)
 - [2020年度のノベル作品の例](https://github.com/datgm20/sotsusei/wiki/%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB)
+- 内藤時浩. プログラミング指南-ゲーム制作
+  - [内藤時浩. ゲーム制作の現場](https://codeknowledge.livedoor.blog/archives/12945552.html)
+  - [内藤時浩. ゲーム制作のデバッグ](https://codeknowledge.livedoor.blog/archives/13051282.html)
+  - [内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)
+  - [内藤時浩. ゲーム制作の工数設定](https://codeknowledge.livedoor.blog/archives/12988411.html)
+  - [内藤時浩. ゲーム制作のプロジェクト管理](https://codeknowledge.livedoor.blog/archives/13027501.html)
+  - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
+- [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
 ### シェーダー関連
 - [Unity Learning Material. パーティクル](https://learning.unity3d.jp/tag/particle/)
