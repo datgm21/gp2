@@ -40,6 +40,33 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 13回目(8/31)
+
+### 話題
+- [GigaZINE. 画像生成AI「Stable Diffusion」を低スペックPCでも無料かつ待ち時間なしで使う方法まとめ](https://gigazine.net/news/20220824-stable-diffusion-google-colaboratory/)
+- [導入が非常に簡単なゲームエンジン GDevelop](https://gdevelop.io/ja-jp)
+- [桜井政博のゲーム作るには](https://www.youtube.com/channel/UC5CTV3JSdrlo5Pa42QkK8SA)
+- [CEDECチャンネルYouTube版](https://www.youtube.com/channel/UCmHaPXvwn9_4pMNAV6ewgoA)
+- [PERACON WEB](https://peracon.cesa.or.jp/)
+  - [みやもと. PERACON2022 振り返りと自己分析](https://note.com/38mo10/n/na8611664670e)
+- 夏休み課題の成果物のビルドと提出
+  - [Visual C#作品](https://github.com/datgm22/design/blob/main/submit_visualcs.md)
+  - [Clusterワールド](https://github.com/datgm22/design/blob/main/submit_cluster.md)
+  - [Unity作品](https://github.com/datgm22/design/blob/main/submit_unity.md)
+
+
+### 予定
+- 研究テーマの確認
+  - 9/7までに記事を1本完成させて公開する
+  - ブログや動画の手順を書き写すだけではなく、調べたことを元にオリジナルの内容を追加すること
+  - 卒業制作で担当している部分の解説
+  - 興味ある分野の調査と応用  
+- [Visual Studio 2022のインストール](https://visualstudio.microsoft.com/ja/vs/community/)
+  - Visual Studioのダウンロードをクリック
+  - `VisualStudioSetup.exe`のダウンロードが完了したらダブルクリックして起動
+  - 管理者権限の入力が表示されたら教員を呼ぶ
+  - C#とUnity開発をチェックしてインストール
+
 
 ## 12回目(7/20)
 
@@ -48,7 +75,7 @@
 - [Cluster Workshop 7/22 21:00-](https://cluster.mu/e/c456ba81-8a5a-4b1c-9f8c-d053e754b56b)
 - [銀座Unityもくもく会 ＃１５ 7/30](https://weekend-unity.connpass.com/event/254552/)
 
-### 予定
+### 内容
 - [移動床サンプル](https://github.com/am1tanaka/TaikenMoveFloor)
 - [シーン切り替えの開発](https://docs.google.com/document/d/1INW1OJcr7pZXomOwxHL-67nhlN-iERClk7WiSE_HCFk/)
   - 画面切り替え、シーンの読み込み、解放、終了待ちなどの実装
