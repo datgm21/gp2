@@ -63,6 +63,8 @@
   - 興味ある分野の調査と応用  
   - 参考 [自家製フレームワークの制作(WIP)](https://www.notion.so/am1tanaka/0994627cd26341678d182d37c7f02f8a)
   - その他、ページ上部の参考資料を参照
+
+### 9/14予定
 - [Visual Studio 2022のインストール](https://visualstudio.microsoft.com/ja/vs/community/)
   - Visual Studioのダウンロードをクリック
   - `VisualStudioSetup.exe`のダウンロードが完了したらダブルクリックして起動
