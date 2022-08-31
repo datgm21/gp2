@@ -49,10 +49,6 @@
 - [CEDECチャンネルYouTube版](https://www.youtube.com/channel/UCmHaPXvwn9_4pMNAV6ewgoA)
 - [PERACON WEB](https://peracon.cesa.or.jp/)
   - [みやもと. PERACON2022 振り返りと自己分析](https://note.com/38mo10/n/na8611664670e)
-- 夏休み課題の成果物のビルドと提出
-  - [Visual C#作品](https://github.com/datgm22/design/blob/main/submit_visualcs.md)
-  - [Clusterワールド](https://github.com/datgm22/design/blob/main/submit_cluster.md)
-  - [Unity作品](https://github.com/datgm22/design/blob/main/submit_unity.md)
 
 
 ### 予定
