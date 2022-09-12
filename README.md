@@ -40,9 +40,20 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 14回目(9/7)
+## 15回目(9/15)
 
 ### 予定
+- [Visual Studio 2022のインストール](https://visualstudio.microsoft.com/ja/vs/community/)
+  - Visual Studioのダウンロードをクリック
+  - `VisualStudioSetup.exe`のダウンロードが完了したらダブルクリックして起動
+  - 管理者権限の入力が表示されたら教員を呼ぶ
+  - C#とUnity開発をチェックしてインストール
+- 前回未確認だったブログや進捗について講評
+
+
+## 14回目(9/7)
+
+### 内容
 - 研究テーマブログの完成と提出
   - 記事を1本完成させて公開したURLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSez2qy7CH6hRwDInk3qD_dfjoBB2Up8Q9uCMZS1feIVv5r8iQ/viewform?usp=sf_link)へ報告
   - ブログや動画の手順を書き写すだけではなく、調べたことを元にオリジナルの内容を追加する
@@ -71,13 +82,6 @@
   - 興味ある分野の調査と応用  
   - 参考 [自家製フレームワークの制作(WIP)](https://am1tanaka.notion.site/0994627cd26341678d182d37c7f02f8a)
   - その他、ページ上部の参考資料を参照
-
-### 9/14予定
-- [Visual Studio 2022のインストール](https://visualstudio.microsoft.com/ja/vs/community/)
-  - Visual Studioのダウンロードをクリック
-  - `VisualStudioSetup.exe`のダウンロードが完了したらダブルクリックして起動
-  - 管理者権限の入力が表示されたら教員を呼ぶ
-  - C#とUnity開発をチェックしてインストール
 
 
 ## 12回目(7/20)
