@@ -40,7 +40,7 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 15回目(9/15)
+## 15回目(9/14)
 
 ### 予定
 - [Visual Studio 2022のインストール](https://visualstudio.microsoft.com/ja/vs/community/)
