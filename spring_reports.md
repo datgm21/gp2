@@ -6,7 +6,7 @@
 - [フィールドに配置したアイテムを取得(拾う)するプログラム](https://qiita.com/inoue39601376/private/777fc9526302289752f3)
 - [UnityでCinemachineを使ってプログラミングを使わずカメラ操作を実装してみる](https://ken-mzm.hatenablog.com/draft/entry/DInc2J6fdAaqqQEYg4LxmjFSRRg)
 - [一人称視点での部屋を製作](https://qiita.com/E05mush/private/2a364d04e6360c706b19)
-- [Clusterの乗り物を作る](https://note.com/preview/nce91711a742b?prev_access_key=2ef8da006c301b959f8ef046ad05a2c5)
+- Clusterの乗り物を作る
 - [PlayerPrefsの使い方](https://qiita.com/onuma1/private/908510ebef36756e6d40)
 - [ゲームエンジンの歴史](https://qiita.com/totototo01209/items/37bd281315f6cbfb830d)
 - [何も分からない初心者がSTUDIOを使ってみる①](https://note.com/ningen963/n/n9a9467bad392)
