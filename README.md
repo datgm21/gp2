@@ -48,6 +48,11 @@
   - `VisualStudioSetup.exe`のダウンロードが完了したらダブルクリックして起動
   - 管理者権限の入力が表示されたら教員を呼ぶ
   - C#とUnity開発をチェックしてインストール
+- Unityの設定
+  - EditメニューからPreferencesを開く
+  - 左からExternal Toolsを選択
+  - 右上の External Script Editor を Microsoft Visual Studio 2022 に変更
+  - 以上設定したら、Preferencesダイアログを閉じて、利用可能になる
 - 前回未確認だったブログや進捗について講評
 
 
