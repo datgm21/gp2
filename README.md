@@ -48,19 +48,19 @@
   - `VisualStudioSetup.exe`のダウンロードが完了したらダブルクリックして起動
   - 管理者権限の入力が表示されたら教員を呼ぶ
   - C#とUnity開発をチェックしてインストール
-- Unityの設定。Unityは**2021.3.4f1**
+- Unityの設定。Unityは **2021.3.4f1**
   - Unity Hub で Visual Studio Editorをインストール
     - Unity Hubを起動
     - インストールを選択
     - 2021.3.4f1 の右の歯車アイコンから、モジュールを加える
     - Microsoft Visual Studio Community 2019がインストールされていなければインストールする
   - Windowメニューから Package Manager を選択
-  - + の右を Unity Regisry に変更
-  - しばらく待って、一覧表示がされたら、下の方の Visual Studio Editor を確認
+    - `+` の右を Unity Regisry に変更
+    - しばらく待って、一覧表示がされたら、下の方の Visual Studio Editor を確認
   - EditメニューからPreferencesを開く
-  - 左からExternal Toolsを選択
-  - 右上の External Script Editor を Microsoft Visual Studio 2022 に変更
-  - 以上設定したら、Preferencesダイアログを閉じて、利用可能になる
+    - 左からExternal Toolsを選択
+    - 右上の External Script Editor を Microsoft Visual Studio 2022 に変更
+    - 以上設定したら、Preferencesダイアログを閉じて、利用可能になる
 - 前回未確認だったブログや進捗について講評
 
 
