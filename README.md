@@ -32,6 +32,7 @@
   - [内藤時浩. ゲーム制作のプロジェクト管理](https://codeknowledge.livedoor.blog/archives/13027501.html)
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
+- [2Dプラットフォーマー用プレイヤーシンプル版](https://docs.google.com/presentation/d/1JT3qWDmEP1DzptlampgO8s6G98_xDo0vjBz7Gn-OI1I/)
 
 ### シェーダー関連
 - [Unity Learning Material. パーティクル](https://learning.unity3d.jp/tag/particle/)
