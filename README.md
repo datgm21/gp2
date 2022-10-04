@@ -43,6 +43,9 @@
 
 ## 後期1回目予定(10/5)
 
+### 話題
+- [AI Programmer. 日本語で指示を出すだけでコードを自動で生成](https://aiprogrammer.hashlab.jp/)
+
 ### 予定
 - [3rd試遊会 確認事項](https://docs.google.com/document/d/1_j4RQ9Oi3KvPrVwK-Dk6Xtszrd9KerKK5d4SRPzZ3dw/)
   - 上記について、技術的な問題を解説
