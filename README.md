@@ -41,15 +41,22 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 後期1回目予定(10/5)
-
-### 話題
-- [AI Programmer. 日本語で指示を出すだけでコードを自動で生成](https://aiprogrammer.hashlab.jp/)
+## 後期2回目(10/12)
 
 ### 予定
 - [3rd試遊会 確認事項](https://docs.google.com/document/d/1_j4RQ9Oi3KvPrVwK-Dk6Xtszrd9KerKK5d4SRPzZ3dw/)
   - 上記について、技術的な問題を解説
 
+## 後期1回目(10/5)
+
+### 話題
+- [AI Programmer. 日本語で指示を出すだけでコードを自動で生成](https://aiprogrammer.hashlab.jp/)
+
+### 内容
+- [3rd試遊会 確認事項](https://docs.google.com/document/d/1_j4RQ9Oi3KvPrVwK-Dk6Xtszrd9KerKK5d4SRPzZ3dw/)
+  - 上記について、技術的な問題を解説
+  - 横スクロールプレイヤー
+  - 上下動をしながらウェイポイントを巡回する動き
 
 ---
 
