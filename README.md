@@ -43,6 +43,9 @@
 
 ## 後期2回目(10/12)
 
+### 話題
+- [Cluster Conference 2022](https://cluster.mu/e/9e67f191-11cb-4f04-8d06-b3d06f5343ac) 10/20(木) 開場 19:30 ／ 開演 20:00 ／ 終了 21:30頃
+
 ### 予定
 - [3rd試遊会 確認事項](https://docs.google.com/document/d/1_j4RQ9Oi3KvPrVwK-Dk6Xtszrd9KerKK5d4SRPzZ3dw/)
   - ワープポイント
