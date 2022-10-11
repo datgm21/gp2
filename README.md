@@ -48,9 +48,10 @@
 
 ### 予定
 - [3rd試遊会 確認事項](https://docs.google.com/document/d/1_j4RQ9Oi3KvPrVwK-Dk6Xtszrd9KerKK5d4SRPzZ3dw/)
-  - ワープポイント
-  - アニメ
-  - 2Dキャラの攻撃 
+  - A マップ作成の進捗確認
+  - B ワープポイント, アニメなど
+  - C 残り作業の確認
+  - D Slackの項目を確認
 
 ## 後期1回目(10/5)
 
