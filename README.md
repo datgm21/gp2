@@ -41,6 +41,10 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## DATフェスタ後
+- 担当した作業の成果のまとめ
+
+
 ## 後期3回目(10/19)
 
 ### 予定
