@@ -44,10 +44,15 @@
 ## DATフェスタ後
 - 担当した作業の成果のまとめ
 
+## 後期4回目(10/26)
+
+### 予定
+- [4th試遊会 講評](https://docs.google.com/document/d/1Ig1GIQ3-NuCghojCiXrIHxmczA0OsbEKLTXcaYHUTkQ/)
+
 
 ## 後期3回目(10/19)
 
-### 予定
+### 話題
 - [3rd試遊会 確認事項](https://docs.google.com/document/d/1_j4RQ9Oi3KvPrVwK-Dk6Xtszrd9KerKK5d4SRPzZ3dw/)
   - A マップの仕上げ、車の差し替え、クリア条件の実装、調整
   - B ワープポイント, アニメなど
