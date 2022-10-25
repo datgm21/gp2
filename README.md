@@ -46,6 +46,10 @@
 
 ## 後期4回目(10/26)
 
+### 話題
+- [Unity SYNC 2022](https://learning.unity3d.jp/)
+- [Cluster カンファレンスレポート](https://note.com/cluster_official/n/n2ede563729be)
+
 ### 予定
 - [4th試遊会 講評](https://docs.google.com/document/d/1Ig1GIQ3-NuCghojCiXrIHxmczA0OsbEKLTXcaYHUTkQ/)
 - 残りの日程
