@@ -44,6 +44,14 @@
 ## DATフェスタ後
 - 担当した作業の成果のまとめ
 
+## 後期5週目(11/2)
+
+### 予定
+- [4th試遊会 講評](https://docs.google.com/document/d/1Ig1GIQ3-NuCghojCiXrIHxmczA0OsbEKLTXcaYHUTkQ/)に基づいて作業、質疑応答
+- 残りの日程
+  - 11/2(水), 11/4(金)
+
+
 ## 後期4回目(10/26)
 
 ### 話題
