@@ -54,6 +54,9 @@
 - 残りの日程
   - 11/2(水), 11/4(金)
 
+### 次回話題
+- [Unityブログ. ゲームプログラミングパターンでコードをレベルアップさせよう](https://blog.unity.com/ja/games/level-up-your-code-with-game-programming-patterns)
+
 
 ## 後期4回目(10/26)
 
