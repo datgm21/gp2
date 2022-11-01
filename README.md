@@ -46,6 +46,9 @@
 
 ## 後期5週目(11/2)
 
+### 話題
+- [ClusterGAMEJAM 2022 in Autumn提出作品 イノシシ★ダッシュ](https://t.co/QjC4g19slf)
+
 ### 予定
 - [4th試遊会 講評](https://docs.google.com/document/d/1Ig1GIQ3-NuCghojCiXrIHxmczA0OsbEKLTXcaYHUTkQ/)に基づいて作業、質疑応答
 - 残りの日程
