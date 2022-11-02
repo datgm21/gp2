@@ -1,5 +1,10 @@
 # ゲームプログラミング２年生
 
+## DATフェスタ準備
+- 11/9(水) 実行ファイルの設定、屋内装飾、全ての作品の操作の確認
+- 11/10(木) 作業が残っていた場合の予備日
+
+## 基本情報
 - [シラバス](https://docs.google.com/spreadsheets/d/1Hes2lmBKlzbyL4_6ZCDzQsSHO0vgp_WX/)
 - [質問](https://meet.google.com/bwb-njcm-udh)
 - [Slack](https://datgm21.slack.com/)
