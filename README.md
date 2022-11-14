@@ -54,8 +54,6 @@
 ### 話題
 - [Unityブログ. ゲームプログラミングパターンでコードをレベルアップさせよう](https://blog.unity.com/ja/games/level-up-your-code-with-game-programming-patterns)
 
-- [](https://datgm20.github.io/works/)
-
 ### 今後のテーマ
 - 作品データのとりまとめ
 - Web公開
