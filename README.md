@@ -49,18 +49,44 @@
 ## DATフェスタ後
 - 担当した作業の成果のまとめ
 
+## 後期6週目(11/16)
+
+### 話題
+- [Unityブログ. ゲームプログラミングパターンでコードをレベルアップさせよう](https://blog.unity.com/ja/games/level-up-your-code-with-game-programming-patterns)
+
+- [](https://datgm20.github.io/works/)
+
+### 今後のテーマ
+- 作品データのとりまとめ
+- Web公開
+- 作品のブラッシュアップ
+- ポートフォリオの充実
+
+### 予定
+- 展示データのビルドデータ、インストカードのデータ、Unityプロジェクトを提出
+  - 展示したビルドデータを `Z:` の指定のフォルダー内にゲームタイトルのフォルダーを作成してコピーする(コピー済みのものがあれば作業不要)
+  - インストカードのデータをビルドフォルダー内にコピー
+  - 展示版のUnityプロジェクトの提出手順は以下の通り
+    - Unityプロジェクトをデスクトップにコピーする
+    - デスクトップにコピーしたUnityプロジェクトフォルダーを開いて、.gitとLibraryフォルダーを削除する
+    - デスクトップにコピーしたプロジェクトフォルダーを右クリックして 7-Zip > 圧縮を選んでzip形式で圧縮
+    - 圧縮したzipファイルを `Z:` フォルダーの作品名のフォルダーにコピー
+- 展示をしていて気づいた点、来場者のコメントをチーム全員で話し合いながら、Googleドキュメントにまとめる
+  - ファイルをコピーしている以外のメンバーがGoogleドキュメントを作成して、文章名を「DATフェスタまとめ」とする
+  - 共有をクリックして、リンクを知っている全員が編集できるように設定して、共有リンクを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSez2qy7CH6hRwDInk3qD_dfjoBB2Up8Q9uCMZS1feIVv5r8iQ/viewform?usp=sf_link)へ報告
+  - チームメンバーで話し合いながら、気づいたことやコメントをGoogleドキュメントに書き込む
+- 提出されたビルドを確認して、今後の方向性を検討
+
+
 ## 後期5週目(11/2)
 
 ### 話題
 - [ClusterGAMEJAM 2022 in Autumn提出作品 イノシシ★ダッシュ](https://t.co/QjC4g19slf)
 
-### 予定
+### 内容
 - [4th試遊会 講評](https://docs.google.com/document/d/1Ig1GIQ3-NuCghojCiXrIHxmczA0OsbEKLTXcaYHUTkQ/)に基づいて作業、質疑応答
 - 残りの日程
   - 11/2(水), 11/4(金)
-
-### 次回話題
-- [Unityブログ. ゲームプログラミングパターンでコードをレベルアップさせよう](https://blog.unity.com/ja/games/level-up-your-code-with-game-programming-patterns)
 
 
 ## 後期4回目(10/26)
