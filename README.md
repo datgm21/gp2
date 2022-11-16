@@ -68,7 +68,7 @@
   - チームメンバーで話し合いながら、気づいたことや展示中に言われたことをGoogleドキュメントに書き込む
   - 参考： https://am1tanaka.hatenablog.com/entry/2021/11/14/223032
 - 提出されたビルドを確認して、今後の方向性を検討
-
+  - [講評](https://docs.google.com/document/d/1Sd5GpL1vxW9WSDW9am8dEbeazo02xUuUWhc85OXGxuY/)
 
 ## 後期5週目(11/2)
 
