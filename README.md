@@ -46,6 +46,7 @@
 
 ### 話題
 - [Unityブログ. ゲームプログラミングパターンでコードをレベルアップさせよう](https://blog.unity.com/ja/games/level-up-your-code-with-game-programming-patterns)
+- [株式会社DONUTS](https://www.donuts.ne.jp/recruit/new_graduate/)
 
 ### 今後のテーマ
 - 作品データのとりまとめ
