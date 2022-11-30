@@ -50,7 +50,7 @@
 
 ### 予定
 - [最終課題について](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
-- オブジェクトの分割(ビルを破壊する)
+- [オブジェクトの分割(ビルを破壊する)](https://docs.google.com/document/d/1CYdzVXSr5k7x8BWFoY20FxfbTg3F2y5q6h5duAduxx4/edit?usp=sharing)
 - 機械戦線の戦闘メカニクスの検討
 
 ## 後期6週目(11/16)
