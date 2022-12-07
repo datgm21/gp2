@@ -44,6 +44,7 @@
 
 ## 後期8週目(12/7)
 ### 話題
+- [Unityアドベントカレンダー2022](https://adventar.org/calendars/7428)
 - [Cluster Creator #1 Advent Calendar 2022](https://am1tanaka.hatenablog.com/entry/2022/12/06/001050)
 
 ### 予定
