@@ -42,13 +42,24 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 後期9回目(12/14)
+
+- [最終課題について](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+
+### 予定
+以下、続き。
+
+- [機械戦線の戦闘メカニクスの検討](https://docs.google.com/document/d/1dUhNynLK89gguxgYZPJNdjYdhhC-xPLMog5urYEWZG4/edit?usp=sharing)
+- [オブジェクトの分割(ビルを破壊する)](https://docs.google.com/document/d/1CYdzVXSr5k7x8BWFoY20FxfbTg3F2y5q6h5duAduxx4/edit?usp=sharing)
+- [Black Holeプレイヤー移動の設計](https://docs.google.com/document/d/1yLhEZd8qyqFe52ZLxApXn2KPtlIrdAaYqwMS9U4gU-A/edit?usp=sharing)
+
 ## 後期8週目(12/7)
 ### 話題
 - [Unityゲーム開発者ギルドアドベントカレンダー2022](https://adventar.org/calendars/7428)
 - [Qiita. Unityアドベントカレンダー2022](https://qiita.com/advent-calendar/2022/unity)
 - [Cluster Creator #1 Advent Calendar 2022](https://am1tanaka.hatenablog.com/entry/2022/12/06/001050)
 
-### 予定
+### 内容
 - [最終課題について](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
 - [オブジェクトの分割(ビルを破壊する)](https://docs.google.com/document/d/1CYdzVXSr5k7x8BWFoY20FxfbTg3F2y5q6h5duAduxx4/edit?usp=sharing)
 - [Black Holeプレイヤー移動の設計](https://docs.google.com/document/d/1yLhEZd8qyqFe52ZLxApXn2KPtlIrdAaYqwMS9U4gU-A/edit?usp=sharing)
