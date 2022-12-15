@@ -50,7 +50,9 @@
 - [機械戦線の戦闘メカニクスの検討](https://docs.google.com/document/d/1dUhNynLK89gguxgYZPJNdjYdhhC-xPLMog5urYEWZG4/edit?usp=sharing)
   - 裏表世界の移動、プレイヤーの状態
 - [オブジェクトの分割(ビルを破壊する)](https://docs.google.com/document/d/1CYdzVXSr5k7x8BWFoY20FxfbTg3F2y5q6h5duAduxx4/edit?usp=sharing)
+  - プリミティブオブジェクトで作成した建物を読み取り可能にする
   - エディタ拡張、分解処理
+  - カメラの操作性向上
 - [Black Holeプレイヤー移動の設計](https://docs.google.com/document/d/1yLhEZd8qyqFe52ZLxApXn2KPtlIrdAaYqwMS9U4gU-A/edit?usp=sharing)
 
 
