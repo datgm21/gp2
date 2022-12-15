@@ -42,11 +42,23 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 後期9回目(12/14)
+## 後期10回目(12/21)
 
 - [最終課題について](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
 
 ### 予定
+- [機械戦線の戦闘メカニクスの検討](https://docs.google.com/document/d/1dUhNynLK89gguxgYZPJNdjYdhhC-xPLMog5urYEWZG4/edit?usp=sharing)
+  - 裏表世界の移動、プレイヤーの状態
+- [オブジェクトの分割(ビルを破壊する)](https://docs.google.com/document/d/1CYdzVXSr5k7x8BWFoY20FxfbTg3F2y5q6h5duAduxx4/edit?usp=sharing)
+  - エディタ拡張、分解処理
+- [Black Holeプレイヤー移動の設計](https://docs.google.com/document/d/1yLhEZd8qyqFe52ZLxApXn2KPtlIrdAaYqwMS9U4gU-A/edit?usp=sharing)
+
+
+## 後期9回目(12/14)
+
+- [最終課題について](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+
+### 内容
 以下、続き。
 
 - [機械戦線の戦闘メカニクスの検討](https://docs.google.com/document/d/1dUhNynLK89gguxgYZPJNdjYdhhC-xPLMog5urYEWZG4/edit?usp=sharing)
