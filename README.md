@@ -47,6 +47,8 @@
 - [最終課題について](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
 
 ### 予定
+- 英雄伝説
+  - CheckPointの実装(チェックポイントの作成と開始時、クリア時のフラグ設定)
 - [機械戦線の戦闘メカニクスの検討](https://docs.google.com/document/d/1dUhNynLK89gguxgYZPJNdjYdhhC-xPLMog5urYEWZG4/edit?usp=sharing)
   - 裏表世界の移動、プレイヤーの状態
 - [オブジェクトの分割(ビルを破壊する)](https://docs.google.com/document/d/1CYdzVXSr5k7x8BWFoY20FxfbTg3F2y5q6h5duAduxx4/edit?usp=sharing)
