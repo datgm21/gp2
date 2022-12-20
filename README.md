@@ -47,6 +47,7 @@
 - [最終課題について](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
 
 ### 予定
+- 各チーム、残りの素材の確認
 - 英雄伝説
   - CheckPointの実装(チェックポイントの作成と開始時、クリア時のフラグ設定)
 - [機械戦線の戦闘メカニクスの検討](https://docs.google.com/document/d/1dUhNynLK89gguxgYZPJNdjYdhhC-xPLMog5urYEWZG4/edit?usp=sharing)
