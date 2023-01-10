@@ -42,11 +42,19 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 後期10回目(12/21)
+## 後期11回目(1/11)
 
 - [最終課題について](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
 
 ### 予定
+- 最終課題のページ作成と項目書き出し
+- 項目の発表
+
+## 後期10回目(12/21)
+
+- [最終課題について](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+
+### 内容
 - 各チーム、残りの素材の確認
 - 英雄伝説
   - CheckPointの実装(チェックポイントの作成と開始時、クリア時のフラグ設定)
