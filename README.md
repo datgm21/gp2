@@ -42,10 +42,10 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 後期12回目(1/18)
+## 後期12, 13回目(1/18, 25)
 - [最終課題について](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
 
-### 予定
+### 内容
 - 最終課題の進捗確認
 - [機械戦線の戦闘メカニクスの検討](https://docs.google.com/document/d/1dUhNynLK89gguxgYZPJNdjYdhhC-xPLMog5urYEWZG4/edit?usp=sharing)
   - 裏表世界の移動、プレイヤーの状態
