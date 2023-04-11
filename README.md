@@ -267,7 +267,6 @@
   - 卒業制作で担当している部分の解説
   - 興味ある分野の調査と応用  
   - 参考 [UI BuilderによるEditorWindowのデザインと新規シーンを作るエディタ拡張](https://am1tanaka.hatenablog.com/entry/2022/09/06/184259)
-  - 参考 [戸谷 和也. ShaderGraphで作るバリア表現](https://docs.google.com/document/d/1CQIScx6-pe6IehgQUH-DYPBjRArHqwDlZ3ZveI2jsC0/edit)
   - その他、ページ上部の参考資料を参照
 
 ## 13回目(8/31)
